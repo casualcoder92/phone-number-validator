@@ -11,7 +11,7 @@ check.addEventListener("click",()=>{
 	}
 	else if(number.value.match(regex)){
 		text.style.color = "rgba(4,125,9,1)";
-        text.innerText = "Congrats! You Enter A Valid Phone Number";
+        text.innerText = "Congrats! You Entered A Valid Phone Number";
 		
 	}
 	else
